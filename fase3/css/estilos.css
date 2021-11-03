@@ -1,0 +1,37 @@
+header{
+    background-color:navy;
+    color: skyblue;
+    text-align: center;
+}
+nav{
+    background-color:pink;
+    color:black;
+}
+    
+section{
+    grid-column: 1/4;
+    background-color:plum;
+}
+aside{
+    background-color:cornflowerblue;
+    grid-column: 4/6;
+    font-weight: bold;
+    color: navy;
+    text-align: center;
+}
+footer{
+    background-color: navy;
+    color: white;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+p{
+    text-align: start;
+}
+
+dd{
+    text-align: start;
+}
