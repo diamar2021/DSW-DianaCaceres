@@ -6,8 +6,6 @@ header{
 nav{
     background-color:pink;
     color:black;
-    text-align: justify;
-
 }
     
 section{
@@ -32,13 +30,9 @@ main{
 
 p{
     text-align: start;
-    text-align: justif
 }
 
 dd{
     text-align: start;
 }
 
-h3{
-    text-align: justif;
-}
